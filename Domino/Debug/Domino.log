@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Domino.cpp
+c:\users\selen\documents\visual studio 2015\projects\domino\domino\domino.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
